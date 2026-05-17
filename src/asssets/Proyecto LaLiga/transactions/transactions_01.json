@@ -1,0 +1,1320 @@
+[
+  {
+    "action": "Market operation",
+    "date": "31/01/2026",
+    "value": 124720991,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "A. Moleiro",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "31/01/2026",
+    "value": 619480,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Mascarell",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "31/01/2026",
+    "value": 57716853,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "C. Romero",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "30/01/2026",
+    "value": 1218433,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Maffeo",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "30/01/2026",
+    "value": 855881,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Ibanez",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "30/01/2026",
+    "value": 19640168,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Berenguer",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "30/01/2026",
+    "value": 1624528,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Johnny",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "29/01/2026",
+    "by": "Cholisimo92",
+    "player": "Gerard Martin"
+  },
+  {
+    "action": "Shield",
+    "date": "29/01/2026",
+    "by": "Cholisimo92",
+    "player": "O. Mingueza"
+  },
+  {
+    "action": "Market operation",
+    "date": "29/01/2026",
+    "value": 12649732,
+    "by": "Cholisimo92",
+    "from": "Aurelb",
+    "player": "Vlachodimos",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "29/01/2026",
+    "value": 127864893,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Fornals",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "29/01/2026",
+    "value": 621155,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Javi Rodriguez",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "29/01/2026",
+    "value": 126274173,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Bellingham",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "29/01/2026",
+    "value": 20549319,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Mikautadze",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "28/01/2026",
+    "by": "jmBruma",
+    "player": "Arnau"
+  },
+  {
+    "action": "Market operation",
+    "date": "28/01/2026",
+    "value": 71097524,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Nico Williams",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "28/01/2026",
+    "by": "jmBruma",
+    "player": "Oblak Market operation"
+  },
+  {
+    "action": "Market operation",
+    "date": "28/01/2026",
+    "value": 7934169,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Tsygankov",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "28/01/2026",
+    "by": "chulosimeone933",
+    "player": "Courtois"
+  },
+  {
+    "action": "Market operation",
+    "date": "28/01/2026",
+    "value": 613760,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "R. Chasco",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "27/01/2026",
+    "value": 595846,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Peque",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "27/01/2026",
+    "value": 1000000,
+    "by": "Aurelb",
+    "from": "chulosimeone933",
+    "player": "Oso",
+    "clause": true
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "Cholisimo92",
+    "value": 0,
+    "cause": "incomplete alignment. Reward"
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "Aurelb",
+    "value": 3600000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "jmBruma",
+    "value": 4600000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "Tele Prados",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "LordNitroX",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "AlvaroPra",
+    "value": 3600000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "27/01/2026",
+    "matchDay": 21,
+    "by": "Linares Deportivo 26",
+    "value": 4100000,
+    "cause": null
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 68849153,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Alex Baena",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 170000000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Mbappe",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 592424,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Moldovan",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 112227318,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "A. Moleiro",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 6764737,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Ounahi",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/01/2026",
+    "value": 15280678,
+    "by": "Linares Deportivo 26",
+    "from": "jmBruma",
+    "player": "Marc Pubill",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "25/01/2026",
+    "value": 657554,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Dela",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "25/01/2026",
+    "value": 588731,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "R. Chasco",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "24/01/2026",
+    "value": 2099106,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "Iñaki Peña",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "24/01/2026",
+    "value": 581064,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Pedro Diaz",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "23/01/2026",
+    "value": 2400000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Javi Galan",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "23/01/2026",
+    "value": 16000000,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "Febas",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "23/01/2026",
+    "value": 53917330,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Alex Balde",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "23/01/2026",
+    "value": 574580,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Pablo García",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 784396,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "R. Mendoza",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 100076265,
+    "by": "Linares Deportivo 26",
+    "from": "Cholisimo92",
+    "player": "Joan Garcia",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 1467405,
+    "by": "Linares Deportivo 26",
+    "from": "Tele Prados",
+    "player": "Pol Lozano",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 1000000,
+    "by": "Linares Deportivo 26",
+    "from": "Tele Prados",
+    "player": "Arriaga",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 119962256,
+    "by": "Linares Deportivo 26",
+    "from": "LALIGA",
+    "player": "Vini Jr.",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 74000000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Nico Williams",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 124105853,
+    "by": "Linares Deportivo 26",
+    "from": "jmBruma",
+    "player": "Vini Jr.",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "22/01/2026",
+    "value": 661852,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Marc Bernal",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "21/01/2026",
+    "by": "jmBruma",
+    "player": "Marc Pubill"
+  },
+  {
+    "action": "Shield",
+    "date": "21/01/2026",
+    "by": "jmBruma",
+    "player": "Oblak"
+  },
+  {
+    "action": "Market operation",
+    "date": "21/01/2026",
+    "value": 1564661,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Marc Roca",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "21/01/2026",
+    "value": 8291891,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "Boyomo",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "21/01/2026",
+    "value": 56534878,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Tchouameni",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 667994,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Juanlu",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 10000144,
+    "by": "chulosimeone933",
+    "from": "jmBruma",
+    "player": "Alex Moreno",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 990729,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Mendy",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 103250000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Valverde",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 1040047,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Mateo Joseph",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 29672110,
+    "by": "Aurelb",
+    "from": "LordNitroX",
+    "player": "Guedes",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "20/01/2026",
+    "value": 26091060,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Alvaro Nunez",
+    "clause": false
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "Aurelb",
+    "value": 7200000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "LordNitroX",
+    "value": 5300000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "jmBruma",
+    "value": 6100000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "Aurelb",
+    "value": 7200000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "AlvaroPra",
+    "value": 5600000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "Linares Deportivo 26",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "20/01/2026",
+    "matchDay": 20,
+    "by": "Tele Prados",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 10730769,
+    "by": "AlvaroPra",
+    "from": "Tele Prados",
+    "player": "Ruben Garcia",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 28154293,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Pepe",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 31946503,
+    "by": "jmBruma",
+    "from": "Cholisimo92",
+    "player": "Marcos Alonso",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 35802484,
+    "by": "Market operation jmBruma",
+    "from": "AlvaroPra",
+    "player": "Muriqi",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 3165529,
+    "by": "jmBruma",
+    "from": "chulosimeone933",
+    "player": "Pepelu",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 98776223,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Julian Alvarez",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 6708024,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Tsygankov",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "18/01/2026",
+    "value": 59898650,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Barrios",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "19/01/2026",
+    "value": 53407383,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Alex Balde",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "18/01/2026",
+    "value": 23599084,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "B. Iglesias",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "17/01/2026",
+    "value": 27218000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Etta Eyong",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "17/01/2026",
+    "value": 69468012,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Alex Baena",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "17/01/2026",
+    "value": 182673068,
+    "by": "Market operation Cholisimo92",
+    "from": "LALIGA",
+    "player": "Pedri",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "17/01/2026",
+    "value": 115932382,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Ferran",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "16/01/2026",
+    "value": 13293578,
+    "by": "Market operation Cholisimo92",
+    "from": "LALIGA",
+    "player": "Febas",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "15/01/2026",
+    "value": 32686618,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "De Frutos",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "14/01/2026",
+    "value": 60314339,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Tchouameni",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "14/01/2026",
+    "value": 610267,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Pedro Diaz",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "14/01/2026",
+    "value": 42912443,
+    "by": "Aurelb",
+    "from": "jmBruma",
+    "player": "German V.",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "14/01/2026",
+    "value": 644443,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Morlanes",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "14/01/2026",
+    "value": 13820398,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Rafa Mir",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "13/01/2026",
+    "value": 17418829,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Álvaro Garcia",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "13/01/2026",
+    "value": 975876,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "M. Aguado",
+    "clause": false
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "Tele Prados",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "AlvaroPra",
+    "value": 2600000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "Linares Deportivo 26",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "Aurelb",
+    "value": 3800000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "LordNitroX",
+    "value": 5000000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "13/01/2026",
+    "matchDay": 19,
+    "by": "jmBruma",
+    "value": 8400000,
+    "cause": null
+  },
+  {
+    "action": "Market operation",
+    "date": "12/01/2026",
+    "value": 844873,
+    "by": "Market operation chulosimeone933",
+    "from": "LALIGA",
+    "player": "Parejo",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "12/01/2026",
+    "value": 3000000,
+    "by": "Market operation Aurelb",
+    "from": "LALIGA",
+    "player": "Vitor Reis",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 169822669,
+    "by": "Market operation Cholisimo92",
+    "from": "LALIGA",
+    "player": "Pedri",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 1500000,
+    "by": "Aurelb",
+    "from": "LALIGA",
+    "player": "Almeida",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 29068208,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Brais Mendez",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 712003,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Matias Moreno",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 77379067,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Edu Exposito",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "11/01/2026",
+    "value": 618932,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "A. Reina",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "10/01/2026",
+    "value": 18869920,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Chavarria",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "09/01/2026",
+    "value": 15700000,
+    "by": "AlvaroPra",
+    "from": "LALIGA",
+    "player": "Tenaglia",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "09/01/2026",
+    "value": 20005369,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "B. Iglesias",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "09/01/2026",
+    "value": 1136876,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Daley Blind",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "08/01/2026",
+    "value": 603198,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Pedrosa",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "08/01/2026",
+    "value": 623285,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Dani Calvo",
+    "clause": false
+  },
+  {
+    "action": "Shield",
+    "date": "08/01/2026",
+    "by": "jmBruma",
+    "player": "Oblak"
+  },
+  {
+    "action": "Market operation",
+    "date": "07/01/2026",
+    "value": 1000000,
+    "by": "Cholisimo92",
+    "from": "jmBruma",
+    "player": "Aitor Ruibal",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "07/01/2026",
+    "value": 629442,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Urko",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "07/01/2026",
+    "value": 5049164,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "O. Mingueza",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "06/01/2026",
+    "value": 585158,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "A. Reina",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "06/01/2026",
+    "value": 1514697,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Guruzeta",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "06/01/2026",
+    "value": 18108081,
+    "by": "Cholisimo92",
+    "from": "Linares Deportivo 26",
+    "player": "Chavarria",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "06/01/2026",
+    "value": 28851869,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Berenguer",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "06/01/2026",
+    "value": 17902336,
+    "by": "Cholisimo92",
+    "from": "Aurelb",
+    "player": "Gerard Martin",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 124105853,
+    "by": "Market operation jmBruma",
+    "from": "LALIGA",
+    "player": "Vini Jr.",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 27020000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Pepe",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 38267934,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Pau Cubarsi",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 53915313,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "F. De Jong",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 28835918,
+    "by": "AlvaroPra",
+    "from": "jmBruma",
+    "player": "Muriqi",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "05/01/2026",
+    "value": 44455995,
+    "by": "Cholisimo92",
+    "from": "AlvaroPra",
+    "player": "Ratiu",
+    "clause": true
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "Linares Deportivo 26",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "jmBruma",
+    "value": 6800000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "Tele Prados",
+    "value": 0,
+    "cause": "incomplete alignment."
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "LordNitroX",
+    "value": 5200000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "Aurelb",
+    "value": 3300000,
+    "cause": null
+  },
+  {
+    "action": "Reward",
+    "date": "05/01/2026",
+    "matchDay": 18,
+    "by": "AlvaroPra",
+    "value": 3400000,
+    "cause": null
+  },
+  {
+    "action": "Market operation",
+    "date": "04/01/2026",
+    "value": 589877,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Raúl",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "04/01/2026",
+    "value": 569904,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Pedrosa",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "04/01/2026",
+    "value": 587797,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "A. Castrin",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "04/01/2026",
+    "value": 596433,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Manu Bueno",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "04/01/2026",
+    "value": 117570966,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "L. Milla",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "03/01/2026",
+    "value": 631536,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Ugrinic",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "03/01/2026",
+    "value": 6311030,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Sorloth",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "03/01/2026",
+    "value": 16000000,
+    "by": "AlvaroPra",
+    "from": "Linares Deportivo 26",
+    "player": "Jan Virgili",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "03/01/2026",
+    "value": 2673106,
+    "by": "chulosimeone933",
+    "from": "Aurelb",
+    "player": "Pepelu",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "02/01/2026",
+    "value": 566777,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "A. Alti",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "02/01/2026",
+    "value": 579851,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Dani Calvo",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "02/01/2026",
+    "value": 1250002,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "M. Aguado",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "02/01/2026",
+    "value": 107570415,
+    "by": "Market operation Cholisimo92",
+    "from": "LALIGA",
+    "player": "Cucho",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "01/01/2026",
+    "value": 554397,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Joan Ruiz",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "01/01/2026",
+    "value": 13339596,
+    "by": "Cholisimo92",
+    "from": "Linares Deportivo 26",
+    "player": "Febas",
+    "clause": true
+  },
+  {
+    "action": "Market operation",
+    "date": "01/01/2026",
+    "value": 15458299,
+    "by": "Cholisimo92",
+    "from": "LALIGA",
+    "player": "Camavinga",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "01/01/2026",
+    "value": 2100000,
+    "by": "jmBruma",
+    "from": "LALIGA",
+    "player": "Martim Neto",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "01/01/2026",
+    "value": 3757208,
+    "by": "chulosimeone933",
+    "from": "LALIGA",
+    "player": "Ruggeri",
+    "clause": false
+  }
+]
