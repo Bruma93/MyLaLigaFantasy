@@ -154,8 +154,8 @@ function parseMarketOperation(text, currentDate) {
           action: 'Market operation',
           date: date,
           value: value,
-          by: by,
-          from: toTeam,
+          by: toTeam,
+          from: by,
           player: player,
           clause: clause
         };
@@ -316,7 +316,8 @@ function main() {
   }
 
   // Save to JSON file
-  const outputPath = path.join(process.env.USERPROFILE, 'Desktop', 'Proyecto LaLiga', 'transactions', `transactions_${fileNameSave}.json`);
+  // Cambiar la ruta de salida para guardar en la carpeta 'transactions' del proyecto
+  const outputPath = path.join(__dirname, '..', 'transactions', `transactions_${fileNameSave}.json`);
   fs.writeFileSync(outputPath, JSON.stringify(transactions, null, 2), 'utf-8');
 
   console.log(`\n✓ Saved to: transactions.json\n`);

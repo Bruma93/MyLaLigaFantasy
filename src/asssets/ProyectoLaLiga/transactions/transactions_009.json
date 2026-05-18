@@ -3,8 +3,8 @@
     "action": "Market operation",
     "date": "30/09/2025",
     "value": 49304089,
-    "by": "Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Cholisimo92",
     "player": "Kounde",
     "clause": false
   },
@@ -12,8 +12,8 @@
     "action": "Market operation",
     "date": "30/09/2025",
     "value": 8523931,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Camavinga",
     "clause": false
   },
@@ -66,8 +66,8 @@
     "action": "Market operation",
     "date": "29/09/2025",
     "value": 10583828,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Ruggeri",
     "clause": false
   },
@@ -75,8 +75,8 @@
     "action": "Market operation",
     "date": "29/09/2025",
     "value": 31867738,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Berenguer",
     "clause": false
   },
@@ -102,7 +102,7 @@
     "action": "Market operation",
     "date": "29/09/2025",
     "value": 2000000,
-    "by": "Market operation Aurelb",
+    "by": "Aurelb",
     "from": "LALIGA",
     "player": "Elgezabal",
     "clause": false
@@ -129,8 +129,8 @@
     "action": "Market operation",
     "date": "27/09/2025",
     "value": 375832,
-    "by": "AlvaroPra",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "AlvaroPra",
     "player": "Gibi",
     "clause": false
   },
@@ -138,8 +138,8 @@
     "action": "Market operation",
     "date": "28/09/2025",
     "value": 13360521,
-    "by": "Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Cholisimo92",
     "player": "Areso",
     "clause": false
   },
@@ -183,8 +183,8 @@
     "action": "Market operation",
     "date": "27/09/2025",
     "value": 2609520,
-    "by": "Market operation Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Market operation Cholisimo92",
     "player": "Mendy",
     "clause": false
   },
@@ -192,8 +192,8 @@
     "action": "Market operation",
     "date": "27/09/2025",
     "value": 426358,
-    "by": "Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Cholisimo92",
     "player": "Rubo",
     "clause": false
   },
@@ -201,17 +201,26 @@
     "action": "Market operation",
     "date": "27/09/2025",
     "value": 12831858,
-    "by": "chulosimeone933",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "chulosimeone933",
     "player": "Rüdiger",
+    "clause": false
+  },
+   {
+    "action": "Market operation",
+    "date": "26/09/2025",
+    "value": 14608863,
+    "by": "LALIGA",
+    "from": "Aurelb",
+    "player": "Ratiu",
     "clause": false
   },
   {
     "action": "Market operation",
     "date": "26/09/2025",
     "value": 6137101,
-    "by": "Aurelb",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Aurelb",
     "player": "Kike Salas",
     "clause": false
   },
@@ -254,9 +263,18 @@
   {
     "action": "Market operation",
     "date": "26/09/2025",
+    "value": 6320152,
+    "by": "LALIGA",
+    "from": "Aurelb",
+    "player": "Thomas Partey",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "26/09/2025",
     "value": 359280,
-    "by": "Aurelb",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Aurelb",
     "player": "J. Ives Valou",
     "clause": false
   },
@@ -264,8 +282,8 @@
     "action": "Market operation",
     "date": "26/09/2025",
     "value": 7021026,
-    "by": "AlvaroPra",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "AlvaroPra",
     "player": "Bardghji",
     "clause": false
   },
@@ -301,6 +319,14 @@
     "value": 1600000,
     "cause": null
   },
+    {
+    "action": "Reward",
+    "date": "26/09/2025",
+    "matchDay": 6,
+    "by": "Cholisimo92",
+    "value": 3400000,
+    "cause": null
+  },
   {
     "action": "Reward",
     "date": "26/09/2025",
@@ -321,8 +347,8 @@
     "action": "Market operation",
     "date": "25/09/2025",
     "value": 10955350,
-    "by": "Linares Deportivo 26",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Linares Deportivo 26",
     "player": "Gavi",
     "clause": false
   },
@@ -375,8 +401,8 @@
     "action": "Market operation",
     "date": "25/09/2025",
     "value": 5438305,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Nyland",
     "clause": false
   },
@@ -384,8 +410,8 @@
     "action": "Market operation",
     "date": "25/09/2025",
     "value": 10536560,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Aimar",
     "clause": false
   },
@@ -393,8 +419,8 @@
     "action": "Market operation",
     "date": "24/09/2025",
     "value": 16059849,
-    "by": "Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Cholisimo92",
     "player": "Brahim",
     "clause": false
   },
@@ -402,8 +428,8 @@
     "action": "Market operation",
     "date": "24/09/2025",
     "value": 5488132,
-    "by": "Cholisimo92",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Cholisimo92",
     "player": "Comesaña",
     "clause": false
   },
@@ -411,8 +437,8 @@
     "action": "Market operation",
     "date": "24/09/2026",
     "value": 373626,
-    "by": "Linares Deportivo 26",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "Linares Deportivo 26",
     "player": "Navarro",
     "clause": false
   },
@@ -474,8 +500,8 @@
     "action": "Market operation",
     "date": "24/09/2025",
     "value": 11130894,
-    "by": "jmBruma",
-    "from": "LALIGA",
+    "by": "LALIGA",
+    "from": "jmBruma",
     "player": "Raba",
     "clause": false
   },
@@ -531,6 +557,15 @@
     "by": "jmBruma",
     "from": "LALIGA",
     "player": "A. Abqar",
+    "clause": false
+  },
+  {
+    "action": "Market operation",
+    "date": "23/09/2025",
+    "value": 400000,
+    "by": "jmBruma",
+    "from": "Tele Prados",
+    "player": "Jofre",
     "clause": false
   }
 ]
